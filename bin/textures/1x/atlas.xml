@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5be7c5e537c13bf16f7a1660603158cd:a5f4862f1081ff5e072574814f27e106:628d44f20a20d4ab7a3617802fac7201$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="Mountain_BG" x="2" y="2" width="160" height="240"/>
+    <SubTexture name="Treeline" x="798" y="136" width="320" height="106" frameX="0" frameY="-14" frameWidth="320" frameHeight="120"/>
+    <SubTexture name="Treelineloop" x="798" y="2" width="320" height="106" frameX="0" frameY="-134" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="lifebarframe" x="1120" y="69" width="15" height="65"/>
+    <SubTexture name="lifebarinner" x="1120" y="2" width="15" height="65"/>
+    <SubTexture name="plane_01" x="360" y="196" width="96" height="44" frameX="-1" frameY="-2" frameWidth="100" frameHeight="50"/>
+    <SubTexture name="plane_02" x="262" y="196" width="96" height="44" frameX="-1" frameY="-2" frameWidth="100" frameHeight="50"/>
+    <SubTexture name="plane_03" x="164" y="196" width="96" height="44" frameX="-1" frameY="-1" frameWidth="100" frameHeight="50"/>
+    <SubTexture name="pzII_01" x="458" y="196" width="78" height="42" frameX="-2" frameY="-24" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="pzII_02" x="698" y="196" width="78" height="40" frameX="-2" frameY="-26" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="pzII_03" x="618" y="196" width="78" height="40" frameX="-2" frameY="-26" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="pzII_04" x="538" y="196" width="78" height="40" frameX="-2" frameY="-26" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="shell" x="1120" y="136" width="6" height="3"/>
+    <SubTexture name="smoked_BG" x="164" y="2" width="632" height="138" frameX="-2" frameY="-17" frameWidth="640" frameHeight="160"/>
+    <SubTexture name="stuart_01" x="484" y="142" width="78" height="52" frameX="-2" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="stuart_02" x="404" y="142" width="78" height="52" frameX="-2" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="stuart_03" x="324" y="142" width="78" height="52" frameX="-2" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="stuart_04" x="244" y="142" width="78" height="52" frameX="-2" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="stuart_turn_01" x="484" y="142" width="78" height="52" frameX="-2" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="stuart_turn_02" x="618" y="142" width="52" height="52" frameX="-13" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="stuart_turn_03" x="672" y="142" width="50" height="52" frameX="-14" frameY="-14" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="stuart_turn_04" x="564" y="142" width="52" height="52" frameX="-15" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="stuart_turn_05" x="164" y="142" width="78" height="52" frameX="0" frameY="-15" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="uniticon" x="724" y="142" width="43" height="30"/>
+</TextureAtlas>
